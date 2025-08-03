@@ -1,0 +1,92 @@
+[
+  {
+    "route": "Bangalore",
+    "departure_times": ["05:00", "06:30", "16:00", "17:45", "19:30", "20:30"],
+    "bus_type": "EXP / SL"
+  },
+  {
+    "route": "Chennai",
+    "departure_times": ["07:30", "12:00", "22:00"],
+    "bus_type": "EXP"
+  },
+  {
+    "route": "Hospet",
+    "departure_times": ["19:30"],
+    "bus_type": "EXP"
+  },
+  {
+    "route": "Ballary",
+    "departure_times": ["23:45"],
+    "bus_type": "SL"
+  },
+  {
+    "route": "Vijayawada",
+    "departure_times": ["17:15"],
+    "bus_type": "SL"
+  },
+  {
+    "route": "Srisailam",
+    "departure_times": ["15:40"],
+    "bus_type": "SL"
+  },
+  {
+    "route": "BHEL",
+    "departure_times": ["17:00", "18:00", "20:30"],
+    "bus_type": "SL"
+  },
+  {
+    "route": "Hyderabad",
+    "departure_times": ["01:05", "15:40", "17:00", "18:00", "19:00", "19:45", "20:00", "20:30", "23:00"],
+    "bus_type": "SL"
+  },
+  {
+    "route": "Kurnool",
+    "departure_times": ["02:10", "02:15"],
+    "bus_type": "SL"
+  },
+  {
+    "route": "Proddatur",
+    "departure_times": ["02:10", "02:15"],
+    "bus_type": "SL"
+  },
+  {
+    "route": "Jammalamadugu",
+    "departure_times": ["13:15", "16:15"],
+    "bus_type": "SL"
+  },
+  {
+    "route": "Bangalore (return buses)",
+    "departure_times": ["01:50", "03:00", "08:00", "08:55"],
+    "bus_type": "SL"
+  },
+  {
+    "route": "Tirupati",
+    "departure_times": ["17:15", "18:00", "19:30"],
+    "bus_type": "REGULAR"
+  },
+  {
+    "route": "Vellore",
+    "departure_times": ["11:00", "18:45"],
+    "bus_type": "REGULAR"
+  },
+  {
+    "route": "Kadapa",
+    "departure_times": ["00:45", "01:00", "01:30", "02:15", "03:00", "05:00", "05:30", "06:30", "07:00", "07:30", "08:00", "08:30", "09:00", "10:00", "10:30", "11:00", "11:20", "12:00", "12:30", "12:45", "13:00", "13:30", "14:00", "14:30", "15:00", "15:45", "16:30", "17:00", "17:30", "18:00", "18:30", "18:45", "19:30", "20:00", "21:00"],
+    "bus_type": "REGULAR"
+  },
+  {
+    "route": "Chittoor",
+    "departure_times": ["00:15", "00:45", "01:15", "03:15", "04:30", "05:00", "06:00"],
+    "bus_type": "REGULAR"
+  },
+  {
+    "route": "Rayachoti",
+    "departure_times": ["01:15", "03:00", "05:00", "07:00"],
+    "bus_type": "REGULAR"
+  },
+  {
+    "route": "Tiruttani",
+    "departure_times": ["02:45", "05:00", "06:30", "07:00", "07:45", "09:15", "09:50", "10:15", "11:15", "12:15", "13:15", "14:15", "15:15", "16:15", "17:15"],
+    "bus_type": "REGULAR"
+  }
+]
